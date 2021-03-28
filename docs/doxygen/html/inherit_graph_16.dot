@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="math::algo::foreach\l_multiply_with_const\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structmath_1_1algo_1_1foreach__multiply__with__const.html",tooltip="for-each functor: multiplies operand with constant factor. "];
+}

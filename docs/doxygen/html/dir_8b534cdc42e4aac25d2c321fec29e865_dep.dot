@@ -1,0 +1,17 @@
+digraph "/home/jason/x/texture-reconstruction/mve/libs/dmrecon" {
+  compound=true
+  node [ fontsize="10", fontname="FreeSans"];
+  edge [ labelfontsize="10", labelfontname="FreeSans"];
+  subgraph clusterdir_6719ab1f1f7655efc2fa43f7eb574fd1 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="libs" fontname="FreeSans", fontsize="10", URL="dir_6719ab1f1f7655efc2fa43f7eb574fd1.html"]
+  dir_8b534cdc42e4aac25d2c321fec29e865 [shape=box, label="dmrecon", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_8b534cdc42e4aac25d2c321fec29e865.html"];
+  }
+  dir_2e5bde0e768e1c9a7f40cd5999af9f90 [shape=box label="util" URL="dir_2e5bde0e768e1c9a7f40cd5999af9f90.html"];
+  dir_e03f63f02d48f81ee131e4c7c81c9756 [shape=box label="math" URL="dir_e03f63f02d48f81ee131e4c7c81c9756.html"];
+  dir_685ef39c755da42c308451c2e6d1fd3d [shape=box label="mve" URL="dir_685ef39c755da42c308451c2e6d1fd3d.html"];
+  dir_8b534cdc42e4aac25d2c321fec29e865->dir_2e5bde0e768e1c9a7f40cd5999af9f90 [headlabel="4", labeldistance=1.5 headhref="dir_000001_000007.html"];
+  dir_8b534cdc42e4aac25d2c321fec29e865->dir_e03f63f02d48f81ee131e4c7c81c9756 [headlabel="23", labeldistance=1.5 headhref="dir_000001_000003.html"];
+  dir_8b534cdc42e4aac25d2c321fec29e865->dir_685ef39c755da42c308451c2e6d1fd3d [headlabel="21", labeldistance=1.5 headhref="dir_000001_000004.html"];
+  dir_685ef39c755da42c308451c2e6d1fd3d->dir_2e5bde0e768e1c9a7f40cd5999af9f90 [headlabel="30", labeldistance=1.5 headhref="dir_000004_000007.html"];
+  dir_685ef39c755da42c308451c2e6d1fd3d->dir_e03f63f02d48f81ee131e4c7c81c9756 [headlabel="29", labeldistance=1.5 headhref="dir_000004_000003.html"];
+}

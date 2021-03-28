@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="fssr::Octree",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfssr_1_1_octree.html",tooltip="A regular octree data structure (each node has zero or eight child nodes). "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="fssr::IsoOctree",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfssr_1_1_iso_octree.html",tooltip="This class computes the implicit function by querying function values at the octree primal vertices o..."];
+}

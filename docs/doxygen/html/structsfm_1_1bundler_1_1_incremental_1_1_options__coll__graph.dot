@@ -1,0 +1,8 @@
+digraph "sfm::bundler::Incremental::Options"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="sfm::bundler::Incremental\l::Options",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pose_p3p_opts" ,fontname="FreeSans"];
+  Node1 [label="sfm::RansacPoseP3P\l::Options",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsfm_1_1_ransac_pose_p3_p_1_1_options.html"];
+}

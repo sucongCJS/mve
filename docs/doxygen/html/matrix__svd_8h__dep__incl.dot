@@ -1,0 +1,17 @@
+digraph "/home/jason/x/texture-reconstruction/mve/libs/math/matrix_svd.h"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node18 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/math/matrix_svd.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node18 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node19 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/math/transform.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transform_8h.html"];
+  Node19 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_incremental.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__incremental_8cc.html"];
+  Node18 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node18 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node21 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/fundamental.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$fundamental_8cc.html"];
+  Node18 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node22 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/homography.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$homography_8cc.html"];
+  Node18 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node23 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/triangulate.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$triangulate_8cc.html"];
+}

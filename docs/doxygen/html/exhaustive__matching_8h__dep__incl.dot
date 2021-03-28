@@ -1,0 +1,15 @@
+digraph "/home/jason/x/texture-reconstruction/mve/libs/sfm/exhaustive_matching.h"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node44 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/exhaustive_matching.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node44 -> Node45 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node45 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/cascade_hashing.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cascade__hashing_8h.html"];
+  Node45 -> Node46 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node46 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_matching.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__matching_8cc.html"];
+  Node45 -> Node47 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node47 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/cascade_hashing.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cascade__hashing_8cc.html"];
+  Node44 -> Node46 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node44 -> Node48 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node48 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/exhaustive_matching.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$exhaustive__matching_8cc.html"];
+}

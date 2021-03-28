@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['valid',['valid',['../classmve_1_1_image_base.html#a4b5303a24900a3c163ce67f88c9bc4e5',1,'mve::ImageBase']]],
+  ['varinmasterpatch',['varInMasterPatch',['../classmvs_1_1_patch_sampler.html#aaf4c3f0e7827d6200aaa088f0d0092d3',1,'mvs::PatchSampler']]],
+  ['vector',['Vector',['../classmath_1_1_vector.html#a891d286a68957a646ae23adbc923ad3d',1,'math::Vector::Vector(void)'],['../classmath_1_1_vector.html#a2b904feebf61915e62685307399bd944',1,'math::Vector::Vector(T const *values)'],['../classmath_1_1_vector.html#ac82a1ee65d0961b3f8658e89a6f69e77',1,'math::Vector::Vector(T const &amp;value)'],['../classmath_1_1_vector.html#a42f41f1773ae980910b26cdd297da0dc',1,'math::Vector::Vector(T const &amp;v1, T const &amp;v2)'],['../classmath_1_1_vector.html#a5338c340ac5a5e2ecf4ac205aeb74eab',1,'math::Vector::Vector(T const &amp;v1, T const &amp;v2, T const &amp;v3)'],['../classmath_1_1_vector.html#aa2ab6459520a2b0aa2f8bf7753dfa808',1,'math::Vector::Vector(T const &amp;v1, T const &amp;v2, T const &amp;v3, T const &amp;v4)'],['../classmath_1_1_vector.html#a68ae3081b07ab2ec8c927ec1ab6ffbe8',1,'math::Vector::Vector(Vector&lt; T, N-1 &gt; const &amp;other, T const &amp;v1)'],['../classmath_1_1_vector.html#a62a0f36bda3d32a7be4fa96b47313d52',1,'math::Vector::Vector(Vector&lt; T, N &gt; const &amp;other)'],['../classmath_1_1_vector.html#ae90c2d85e809c72d13c42d3ef23c2d2f',1,'math::Vector::Vector(Vector&lt; O, N &gt; const &amp;other)'],['../classmath_1_1_vector.html#a607e1aafbb44ba896cb5e2f926d7690d',1,'math::Vector::Vector(O const *values)']]],
+  ['vector_5fclean',['vector_clean',['../namespacemath_1_1algo.html#a422d4d17350c3fc563397dac2dd743c1',1,'math::algo']]],
+  ['verbose',['verbose',['../classutil_1_1_logging.html#aafb720591ba78ee5acb0ec0849c9cc7d',1,'util::Logging']]],
+  ['vertexarray',['VertexArray',['../classogl_1_1_vertex_array.html#a9635cee42ab630e7b00ddd203441cc14',1,'ogl::VertexArray']]],
+  ['view',['View',['../classmve_1_1_view.html#a85d53ae9d99667a6d067097ada4aafba',1,'mve::View::View(const View &amp;)=delete'],['../classmve_1_1_view.html#a8d6cf35bf56cd9407017b075d208b2c0',1,'mve::View::View(void)'],['../classmve_1_1_view.html#ab1f18e9fd466661b62b7bda3cdebe216',1,'mve::View::View(std::string const &amp;path)']]],
+  ['viewport',['Viewport',['../structsfm_1_1bundler_1_1_viewport.html#a8ace6789a2e957371f33057dc4fd349d',1,'sfm::bundler::Viewport']]],
+  ['viewray',['viewRay',['../classmvs_1_1_single_view.html#ac00b0396892ee7e02ebe8db090d65441',1,'mvs::SingleView::viewRay(int x, int y, int level) const'],['../classmvs_1_1_single_view.html#a4a9f0a24f21200728ea689781e89d417',1,'mvs::SingleView::viewRay(float x, float y, int level) const']]],
+  ['viewrayscaled',['viewRayScaled',['../classmvs_1_1_single_view.html#af802c56a43f84f11b16c519acd5d3b4b',1,'mvs::SingleView']]],
+  ['viewselection',['ViewSelection',['../classmvs_1_1_view_selection.html#ae1a4f4e37e3d6630d887ebd0def94f65',1,'mvs::ViewSelection::ViewSelection()'],['../classmvs_1_1_view_selection.html#a71082ae2c9b691138eba0ca616d5aeb5',1,'mvs::ViewSelection::ViewSelection(Settings const &amp;settings)']]],
+  ['volume',['Volume',['../classmve_1_1_volume.html#aefa1f8e0267e95923a35868817327b9d',1,'mve::Volume']]],
+  ['volumemcaccessor',['VolumeMCAccessor',['../classmve_1_1_volume_m_c_accessor.html#ab153ef79190a9cf8a5168905a9abe6ae',1,'mve::VolumeMCAccessor']]],
+  ['volumemtaccessor',['VolumeMTAccessor',['../classmve_1_1_volume_m_t_accessor.html#a63f2d4526250e0e4e107898a0c8fafc8',1,'mve::VolumeMTAccessor']]],
+  ['voxeldata',['VoxelData',['../structfssr_1_1_voxel_data.html#a2dc387e77e7cf52fe8cff831e90f9717',1,'fssr::VoxelData']]],
+  ['vstack',['vstack',['../classmath_1_1_matrix.html#aebf1d903dbe5bd1b07dec5a3321b42c1',1,'math::Matrix::vstack(Matrix&lt; T, O, M &gt; const &amp;other) const'],['../classmath_1_1_matrix.html#a4159e13effe6c58516f3ba8d90563f76',1,'math::Matrix::vstack(Vector&lt; T, M &gt; const &amp;other) const']]]
+];

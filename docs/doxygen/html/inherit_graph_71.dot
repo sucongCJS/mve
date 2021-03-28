@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="ogl::Context",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classogl_1_1_context.html",tooltip="Abstraction of a rendering context/viewport that displays renderings. "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="ogl::CameraContext\l\< CTRL \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classogl_1_1_camera_context.html",tooltip="A simple context that does some of the common annoying work. "];
+}

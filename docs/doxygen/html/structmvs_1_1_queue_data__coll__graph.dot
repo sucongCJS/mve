@@ -1,0 +1,8 @@
+digraph "mvs::QueueData"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="mvs::QueueData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" localViewIDs" ,fontname="FreeSans"];
+  Node1 [label="std::set\< std::size_t \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

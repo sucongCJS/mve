@@ -1,0 +1,12 @@
+digraph "/home/jason/x/texture-reconstruction/mve/libs/sfm/triangulate.h"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node19 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/triangulate.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node19 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_incremental.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__incremental_8cc.html"];
+  Node19 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node21 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_init_pair.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__init__pair_8cc.html"];
+  Node19 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node22 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/triangulate.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$triangulate_8cc.html"];
+}

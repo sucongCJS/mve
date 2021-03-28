@@ -15,8 +15,7 @@
 
 MVE_NAMESPACE_BEGIN
 
-void
-MeshInfo::initialize (TriangleMesh::ConstPtr mesh)
+void MeshInfo::initialize (TriangleMesh::ConstPtr mesh)
 {
     TriangleMesh::VertexList const& verts = mesh->get_vertices();
     TriangleMesh::FaceList const& faces = mesh->get_faces();
@@ -52,8 +51,7 @@ namespace
 
 /* ---------------------------------------------------------------- */
 
-void
-MeshInfo::update_vertex (TriangleMesh const& mesh, std::size_t vertex_id)
+void MeshInfo::update_vertex (TriangleMesh const& mesh, std::size_t vertex_id)
 {
     TriangleMesh::FaceList const& faces = mesh.get_faces();
     VertexInfo& vinfo = this->vertex_info[vertex_id];

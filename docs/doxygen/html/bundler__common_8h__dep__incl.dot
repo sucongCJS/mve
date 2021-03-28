@@ -1,0 +1,48 @@
+digraph "/home/jason/x/texture-reconstruction/mve/libs/sfm/bundler_common.h"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node40 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_common.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node40 -> Node41 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node41 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_common.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__common_8cc.html"];
+  Node40 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node42 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_features.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__features_8cc.html"];
+  Node40 -> Node43 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node43 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_features.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__features_8h.html"];
+  Node43 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node40 -> Node44 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node44 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_incremental.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__incremental_8h.html"];
+  Node44 -> Node45 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node45 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_incremental.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__incremental_8cc.html"];
+  Node40 -> Node46 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node46 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_init_pair.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__init__pair_8h.html"];
+  Node46 -> Node47 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node47 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_init_pair.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__init__pair_8cc.html"];
+  Node40 -> Node48 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node48 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_intrinsics.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__intrinsics_8h.html"];
+  Node48 -> Node49 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node49 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_intrinsics.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__intrinsics_8cc.html"];
+  Node40 -> Node50 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node50 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_matching.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__matching_8h.html"];
+  Node50 -> Node51 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node51 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_matching.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__matching_8cc.html"];
+  Node50 -> Node52 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node52 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_tracks.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__tracks_8h.html"];
+  Node52 -> Node53 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node53 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/bundler_tracks.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$bundler__tracks_8cc.html"];
+  Node40 -> Node54 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node54 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/matching_base.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$matching__base_8h.html"];
+  Node54 -> Node50 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node54 -> Node54 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node54 -> Node55 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node55 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/exhaustive_matching.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$exhaustive__matching_8h.html"];
+  Node55 -> Node56 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node56 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/cascade_hashing.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cascade__hashing_8h.html"];
+  Node56 -> Node51 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node56 -> Node57 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node57 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/cascade_hashing.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$cascade__hashing_8cc.html"];
+  Node55 -> Node51 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node55 -> Node58 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node58 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/sfm/exhaustive_matching.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$exhaustive__matching_8cc.html"];
+  Node40 -> Node55 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

@@ -26,8 +26,7 @@ MVE_GEOM_NAMESPACE_BEGIN
 /**
  * Loads a triangle mesh from a PLY model file.
  */
-TriangleMesh::Ptr
-load_ply_mesh (std::string const& filename);
+TriangleMesh::Ptr load_ply_mesh (std::string const& filename);
 
 /**
  * Loads a depth map from a PLY file.

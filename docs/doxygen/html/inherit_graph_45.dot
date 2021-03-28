@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="mve::MeshBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmve_1_1_mesh_base.html",tooltip="Base class for meshes. "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="mve::TriangleMesh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmve_1_1_triangle_mesh.html",tooltip="Triangle mesh representation. "];
+}

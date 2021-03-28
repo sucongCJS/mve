@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="sfm::ba::SparseMatrix\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsfm_1_1ba_1_1_sparse_matrix.html",tooltip="Sparse matrix class in Yale format for column-major matrices. "];
+}

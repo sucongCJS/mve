@@ -1,0 +1,16 @@
+digraph "sfm::bundler::Features::Options"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="sfm::bundler::Features\l::Options",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" image_embedding" ,fontname="FreeSans"];
+  Node1 [label="std::string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="std::basic_string\<\l char \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node3 -> Node0 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" feature_options" ,fontname="FreeSans"];
+  Node3 [label="sfm::FeatureSet::Options",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsfm_1_1_feature_set_1_1_options.html",tooltip="Options for feature detection and matching. "];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" surf_opts" ,fontname="FreeSans"];
+  Node4 [label="sfm::Surf::Options",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsfm_1_1_surf_1_1_options.html",tooltip="SURF options. "];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" sift_opts" ,fontname="FreeSans"];
+  Node5 [label="sfm::Sift::Options",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsfm_1_1_sift_1_1_options.html",tooltip="SIFT options. "];
+}

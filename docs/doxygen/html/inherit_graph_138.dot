@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="sfm::RansacPoseP3P\l::Result",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsfm_1_1_ransac_pose_p3_p_1_1_result.html"];
+}

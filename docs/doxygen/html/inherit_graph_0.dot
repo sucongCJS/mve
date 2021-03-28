@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="fssr::IsoSurface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfssr_1_1_iso_surface.html",tooltip="The surfacing algorithm requires the octree hierarchy and the vector of voxels. "];
+}

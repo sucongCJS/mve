@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="fssr::Octree::Node",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structfssr_1_1_octree_1_1_node.html",tooltip="Simple recursive octree node that stores samples in a vector. "];
+}

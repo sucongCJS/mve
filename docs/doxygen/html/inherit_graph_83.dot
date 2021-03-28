@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="sfm::ba::ConjugateGradient\l\< T \>::Functor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsfm_1_1ba_1_1_conjugate_gradient_1_1_functor.html"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="sfm::ba::CGBasicMatrixFunctor\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classsfm_1_1ba_1_1_c_g_basic_matrix_functor.html"];
+}

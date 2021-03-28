@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="mve::geom::SavePLYOptions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structmve_1_1geom_1_1_save_p_l_y_options.html",tooltip="Options struct for saving PLY files. "];
+}

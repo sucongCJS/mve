@@ -1,0 +1,11 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="mvs::ViewSelection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmvs_1_1_view_selection.html"];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 [label="mvs::GlobalViewSelection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmvs_1_1_global_view_selection.html"];
+  Node0 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="mvs::LocalViewSelection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmvs_1_1_local_view_selection.html"];
+}

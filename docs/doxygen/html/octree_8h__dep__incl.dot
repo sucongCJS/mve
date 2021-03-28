@@ -1,0 +1,24 @@
+digraph "/home/jason/x/texture-reconstruction/mve/libs/fssr/octree.h"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node20 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/octree.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node20 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node21 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/voxel.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$voxel_8h.html"];
+  Node21 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node22 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/iso_octree.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$iso__octree_8h.html"];
+  Node22 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node23 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/iso_octree.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$iso__octree_8cc.html"];
+  Node22 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node24 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/iso_surface.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$iso__surface_8h.html"];
+  Node24 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node25 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/iso_surface.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$iso__surface_8cc.html"];
+  Node21 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node21 -> Node26 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node26 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/voxel.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$voxel_8cc.html"];
+  Node20 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node20 -> Node27 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node27 [label="/home/jason/x/texture\l-reconstruction/mve/libs\l/fssr/octree.cc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$octree_8cc.html"];
+}

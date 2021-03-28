@@ -1,0 +1,12 @@
+digraph "sfm::bundler::InitialPair::Result"
+{
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node0 [label="sfm::bundler::InitialPair\l::Result",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" view_1_pose\nview_2_pose" ,fontname="FreeSans"];
+  Node1 [label="sfm::CameraPose",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsfm_1_1_camera_pose.html",tooltip="The camera pose is the 3x4 matrix P = K [R | t]. "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" t" ,fontname="FreeSans"];
+  Node2 [label="math::Vector\< double, 3 \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmath_1_1_vector.html"];
+  Node3 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" K\nR" ,fontname="FreeSans"];
+  Node3 [label="math::Matrix\< double,\l 3, 3 \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classmath_1_1_matrix.html"];
+}
